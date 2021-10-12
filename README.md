@@ -22,11 +22,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [你不知道的 LeetCode 技巧（第二篇）](https://lucifer.ren/blog/2021/08/17/ydk-leetcode-2/)
-- [你不知道的 LeetCode 技巧（第一篇）](https://lucifer.ren/blog/2021/08/06/ydk-leetcode/)
-- [从零到谷歌程序员：「狗头」的面试刷题心得](https://lucifer.ren/blog/2021/07/29/91algo-interview-yixiao/)
-- [史诗级更新，VSCODE 可无缝调试浏览器了！](https://lucifer.ren/blog/2021/07/28/vscode-brower-debug/)
-- [【91专访】 微软大佬 cabbage 分享算法面试心得](https://lucifer.ren/blog/2021/07/27/91algo-interview-cabbage/)
+- [用什么语言刷题最有排面？](https://lucifer.ren/blog/2021/10/10/programming-idioms/)
+- [写注释就能自动出代码？copilot 尝鲜](https://lucifer.ren/blog/2021/10/05/copilot/)
+- [有了这个可视化插件，刷题调试更轻松](https://lucifer.ren/blog/2021/09/26/algo-vis/)
+- [五天100+题，怒进谷歌！](https://lucifer.ren/blog/2021/09/24/91algo-interview-kongshi/)
+- [力扣刷题的正确姿势是什么？](https://lucifer.ren/blog/2021/09/16/how-leetcode/)
 <!-- BLOG-POST-LIST:END -->
 
 
